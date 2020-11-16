@@ -1,0 +1,14 @@
+.sidebar {
+    background-color: #66D7D1;
+    color: #fff;
+    font-size: 18px;
+}
+
+.sidebar__list{
+    list-style: none;
+}
+
+.sidebar__list-option {
+    /*border: 0.5px solid #000;*/
+    height: 45px;
+}
